@@ -1,5 +1,5 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=header"/>
 <div align="center">
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5171F7&background=C8297D00&center=true&vCenter=true&width=435&lines=Hello+world;Nice+to+meet+U)](https://git.io/typing-svg)
@@ -31,4 +31,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cleitindograu420}/count.svg" /></p> 
 <br></div>
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008000&height=120&section=footer"/>
