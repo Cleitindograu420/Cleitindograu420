@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5171F7&background=C8297D00&center=true&vCenter=true&width=435&lines=Hello+world;Nice+to+meet+U)](https://git.io/typing-svg)
 
 
-<br><h3><br>Hi, i am just a biginner Computer scientist from Brazil traing to work on his base skils for now.
+<br><h3><br>Hi, i am just a beginner Computer scientist from Brazil trainig to work on his base skills for now.
 <div style="display: inline_block"><br>
  <div>
   <div>
