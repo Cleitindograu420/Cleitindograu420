@@ -24,8 +24,9 @@
   <code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></code>
 
   ### Studying in this moment:
-<code><img width="4%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></code>
+<code><img width="4%" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg"></code>
 <code><img width="4%" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/java/java-original-wordmark.svg"></code>
+<code><img width="4%" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg"></code>
  
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Cleitindograu420}/count.svg" /></p> 
