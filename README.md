@@ -26,7 +26,9 @@
 
   ### Studying in this moment:
 <code><img width="4%" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/python/python-original-wordmark.svg"></code>
-<code><img width="4%" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/javascript/javascript-original.svg"></code>
+<code><img width="4%" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/mysql/mysql-original.svg"></code>
+<code><img width="4%" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/postgresql/postgresql-original.svg"></code>
+<code><img width="4%" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/sqlite/sqlite-original.svg"></code>
 <code><img width="4%" src="https://github.com/devicons/devicon/blob/v2.16.0/icons/php/php-original.svg"></code>
  
 <br><p align="centre"><b>Visitors Count</b></p>  
